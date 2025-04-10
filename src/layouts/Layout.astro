@@ -1,0 +1,22 @@
+---
+import appwriteLogo from '../assets/appwrite.svg'
+---
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Fira+Code&family=Inter:opsz,wght@14..32,100..900&family=Poppins&display=swap"
+			rel="stylesheet"
+		/>
+		<link rel="icon" type="image/svg+xml" href={appwriteLogo.src} />
+		<meta name="generator" content={Astro.generator} />
+		<title>Appwrite + Astro</title>
+	</head>
+	<body class="bg-[#FAFAFB] font-[Inter] text-sm text-[#56565C]">
+		<slot />
+	</body>
+</html>
