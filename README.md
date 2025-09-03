@@ -1,6 +1,6 @@
 # Astro starter kit with Appwrite
 
-Kickstart your Astro development with this ready-to-use starter project integrated with [Appwrite](https://www.appwrite.io)
+Kickstart your Astro development with this ready-to-use starter project integrated with [Appwrite](https://www.appwrite.io).
 
 ## 🚀Getting started
 
